@@ -40,7 +40,7 @@ Uses JSON Web Tokens (JWT) to protect all `/api/notes` routes. Token must be sen
 4.Start the server:
   npm start
 
-
+<p>Make sure you send Autherization token when required in form : Bearer <token>I </p>
 
 
 
